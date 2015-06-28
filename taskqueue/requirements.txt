@@ -1,0 +1,8 @@
+Flask==0.10.1
+gevent
+boto
+paramiko
+pycrypto
+Pillow
+ecdsa
+unittest2
